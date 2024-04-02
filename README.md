@@ -1,2 +1,2 @@
 # PrivateBK
-个人博客
+基于vuepress搭建
