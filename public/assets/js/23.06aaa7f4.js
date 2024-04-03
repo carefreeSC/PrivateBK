@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{429:function(t,s,o){"use strict";o.r(s);var e=o(2),n=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("This is my Email：carefreesc@outlook.com")])])}),[],!1,null,null,null);s.default=n.exports}}]);

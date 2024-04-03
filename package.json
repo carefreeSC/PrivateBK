@@ -1,0 +1,14 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "1.9.7",
+    "vuepress-theme-reco": "1.6.17"
+  },
+  "description": "boke"
+}
