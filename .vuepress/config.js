@@ -20,6 +20,10 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    valineConfig:{
+      appId:"3o8ThJKFSMhQuX5y2kEbPb6p-gzGzoHsz",
+      appKey:"siSyirnvIcw18cQcJ28MKZms",
+    },
     "nav": [
       {
         "text": "首页",
@@ -78,7 +82,7 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "张少聪（ZSC）",
+    "author": "carefree（ZSC）",
     "authorAvatar": "https://ss0.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3215447402,2310101162&fm=253&gp=0.jpg",
     "startYear": "2021"
   },

@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 欢迎来到张少聪的技术博客
+heroText: 欢迎来到CareFree的技术博客
 tagline: Welcome to my world.
 # heroImage: /hero.png
 # heroImageStyle: {

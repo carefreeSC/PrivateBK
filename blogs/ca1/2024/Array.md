@@ -1,12 +1,11 @@
 ---
-title: 数组查重
-date: 2022-11-09
+title: 前端关于普通数组与对象数组的查询方法
+date: 2023-11-09
 tags:
  - array
 categories:
  -  前端
 ---
-在敲代码的过程中想要对获取到的数据数组进行查重，发现简单的数组去重方法（indexOf方法）好像不行。
 1.JSON数组去重方法封装
  ```javascript
  tools.delRepeatJson = function(arr = [], attrName = '') {
